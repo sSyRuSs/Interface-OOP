@@ -1,0 +1,34 @@
+﻿<DuAn>
+  <TenDuAn>Du An Nghin Ty</TenDuAn>
+  <ChuDauTu>Tap Doan ABC and D</ChuDauTu>
+  <DanhSachBatDongSan>
+    <BatDongSan Loai = "Nha">
+      <MaSo>N001</MaSo>
+      <ChieuDai>12</ChieuDai>
+      <ChieuRong>8</ChieuRong>
+      <SoLau>4</SoLau>
+    </BatDongSan>
+    <BatDongSan Loai = "Dat">
+      <MaSo>D002</MaSo>
+      <ChieuDai>15</ChieuDai>
+      <ChieuRong>10</ChieuRong>
+    </BatDongSan>
+    <BatDongSan Loai = "BT">
+      <MaSo>B003</MaSo>
+      <ChieuDai>12</ChieuDai>
+      <ChieuRong>10</ChieuRong>
+    </BatDongSan>
+    <BatDongSan Loai = "KS">
+      <MaSo>K004</MaSo>
+      <ChieuDai>20</ChieuDai>
+      <ChieuRong>15</ChieuRong>
+      <SoSao>4</SoSao>
+    </BatDongSan>
+    <BatDongSan Loai = "Dat">
+      <MaSo>D005</MaSo>
+      <ChieuDai>20</ChieuDai>
+      <ChieuRong>15</ChieuRong>
+      <SoSao>4</SoSao>
+    </BatDongSan>
+  </DanhSachBatDongSan>
+</DuAn>
